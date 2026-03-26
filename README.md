@@ -14,6 +14,9 @@ Classes: There are 10 distinct classes of fashion items (e.g., T-shirt/top, Trou
 Training Set Size: 60,000 images.
 Test Set Size: 10,000 images.
 
+## Neural Network Model
+<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/a757df16-cd3e-4a0a-99c3-8ac7e249f2af" />
+
 
 ## DESIGN STEPS
 ### STEP 1: 
